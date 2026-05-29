@@ -13,7 +13,7 @@ using the classic [Sample Superstore](https://www.kaggle.com/datasets/vivek468/s
 
 ## Screenshot
 
-<img src="img/frontend_vue.png" width="800" alt="Superstore Analytics Dashboard Screenshot">
+<img src="img/frontend_vue.png" width="800" alt="AI Supermarket Insights Screenshot">
 
 ## Architecture
 
