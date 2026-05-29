@@ -1,4 +1,4 @@
-# Superstore Analytics Dashboard
+# AI Supermarket Insights
 
 An AI-powered business analytics dashboard built with Flask, Vue 3, and React 18,
 using the classic [Sample Superstore](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) dataset.

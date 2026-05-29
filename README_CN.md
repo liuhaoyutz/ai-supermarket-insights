@@ -1,4 +1,4 @@
-# Superstore Analytics Dashboard
+# AI Supermarket Insights
 
 基于 Flask + Vue 3 + React 18 的 AI 商业数据分析看板，使用经典的
 [Sample Superstore](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) 数据集。
