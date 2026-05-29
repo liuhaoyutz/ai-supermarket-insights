@@ -11,6 +11,10 @@ using the classic [Sample Superstore](https://www.kaggle.com/datasets/vivek468/s
 - **Dual frontend**: Identical functionality implemented in both Vue 3 and React 18 for comparison
 - **Apple-inspired design**: Clean, modern UI with glass-morphism effects and responsive layout
 
+## Screenshot
+
+<img src="img/frontend_vue.png" width="800" alt="Superstore Analytics Dashboard Screenshot">
+
 ## Architecture
 
 ```
